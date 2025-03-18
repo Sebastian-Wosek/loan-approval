@@ -2,7 +2,8 @@
 
 This is a Loan Approval Classification task. Using the dataset from Kaggle (https://www.kaggle.com/datasets/taweilo/loan-approval-classification-data), I will use machine learning models with the help of Apache Spark, to check their performance.
 
-Till now I did the description and analysis of the initial dataset.
+Till now I did the description and analysis of the initial dataset, also handling outliers in the dataset.
+Next step: Fixing the imbalanced target variable.
 
 Technologies I used:
 * jupiter notebook
